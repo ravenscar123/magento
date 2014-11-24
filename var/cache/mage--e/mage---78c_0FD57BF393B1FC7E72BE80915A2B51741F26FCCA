@@ -1,0 +1,47 @@
+<footer class="footer-container case" itemscope itemtype="http://schema.org/WPFooter">
+    <div class="footer container">
+
+                <section class="footer__links">
+            <div class="links-left">
+<ul>
+    <li><a href="http://localhost/magento/index.php/about-magento-demo-store?___SID=U">About Us</a></li>
+    <li><a href="http://localhost/magento/index.php/customer-service?___SID=U">Customer Service</a></li>
+<li class="last privacy"><a href="http://localhost/magento/index.php/privacy-policy-cookie-restriction-mode?___SID=U">Privacy Policy</a></li>
+</ul></div>
+
+            <div class="links-right"><ul class="links nav nav-pills">
+                        <li class="first" ><a href="http://localhost/magento/index.php/catalog/seo_sitemap/category/?___SID=U" title="Site Map" >Site Map</a></li>
+                                <li ><a href="http://localhost/magento/index.php/catalogsearch/term/popular/?___SID=U" title="Search Terms" >Search Terms</a></li>
+                                <li ><a href="http://localhost/magento/index.php/catalogsearch/advanced/?___SID=U" title="Advanced Search" >Advanced Search</a></li>
+                                <li ><a href="http://localhost/magento/index.php/sales/guest/form/?___SID=U" title="Orders and Returns" >Orders and Returns</a></li>
+                                <li class=" last" ><a href="http://localhost/magento/index.php/contacts/?___SID=U" title="Contact Us" >Contact Us</a></li>
+            </ul>
+</div>
+        </section>
+        
+        <div class="footer__organization"><section class="organization" itemscope itemtype="http://schema.org/Organization">
+
+    <div class="name">
+        <div itemprop="name"></div>
+        <div itemprop="url"><a href="http://localhost/magento/">localhost</a></div>
+    </div>
+
+    <div class="address" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <div><span itemprop="streetAddress">Duivenkamp 645</span>,</div>
+        <div><span itemprop="addressLocality">Maarssen, Netherlands</span></div>
+        <span itemprop="postalCode">3607 BR</span>
+    </div>
+
+    <div class="contacts">
+        <div itemprop="telephone"></div>
+        <a href="mailto:owner@example.com" itemprop="email">owner@example.com</a>
+    </div>
+
+</section>
+</div>
+
+        <section class="footer__copy">
+            <div class="copyright">&copy; 2014 Magento Demo Store. All Rights Reserved.</div>
+        </section>
+    </div>
+</footer>
